@@ -14,3 +14,18 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+
+
+Route::group(['prefix' => 'admin', 'namespace'=>'Admin'], function () {
+
+    Route::get('login', ['uses' => 'AdminAuthController@login', 'as' => 'login']);
+
+    Route::group(['middleware'=>'admin'], function (){
+        Route::get('/', ['uses' => 'IndexController@index',   'as' => 'dashboard']);
+    });
+
+
+
+
+});
