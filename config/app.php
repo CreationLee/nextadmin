@@ -72,7 +72,11 @@ return [
     |--------------------------------------------------------------------------
     |
     | The application locale determines the default locale that will be used
+<<<<<<< HEAD
     | by the translation Service provider. You are free to set this value
+=======
+    | by the translation service provider. You are free to set this value
+>>>>>>> 29b76a6f22d2c5f4250bcbdbe281b0f1197945d2
     | to any of the locales which will be supported by the application.
     |
     */
@@ -97,7 +101,11 @@ return [
     | Encryption Key
     |--------------------------------------------------------------------------
     |
+<<<<<<< HEAD
     | This key is used by the Illuminate encrypter Service and should be set
+=======
+    | This key is used by the Illuminate encrypter service and should be set
+>>>>>>> 29b76a6f22d2c5f4250bcbdbe281b0f1197945d2
     | to a random, 32 character string, otherwise these encrypted strings
     | will not be safe. Please do this before deploying an application!
     |
@@ -129,7 +137,11 @@ return [
     | Autoloaded Service Providers
     |--------------------------------------------------------------------------
     |
+<<<<<<< HEAD
     | The Service providers listed here will be automatically loaded on the
+=======
+    | The service providers listed here will be automatically loaded on the
+>>>>>>> 29b76a6f22d2c5f4250bcbdbe281b0f1197945d2
     | request to your application. Feel free to add your own services to
     | this array to grant expanded functionality to your applications.
     |
@@ -168,6 +180,8 @@ return [
          */
         Laravel\Tinker\TinkerServiceProvider::class,
 
+
+
         /*
          * Application Service Providers...
          */
@@ -177,6 +191,7 @@ return [
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
         App\Providers\AdminServiceProvider::class,
+
 
     ],
 

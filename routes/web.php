@@ -16,6 +16,7 @@ Route::get('/', function () {
 });
 
 
+<<<<<<< HEAD
 
 Route::group(['prefix' => 'admin', 'namespace'=>'Admin'], function () {
 
@@ -29,3 +30,8 @@ Route::group(['prefix' => 'admin', 'namespace'=>'Admin'], function () {
 
 
 });
+=======
+Route::group(['prefix' => 'admin'], function () {
+    Voyager::routes();
+});
+>>>>>>> 29b76a6f22d2c5f4250bcbdbe281b0f1197945d2
