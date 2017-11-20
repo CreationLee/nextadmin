@@ -31,7 +31,5 @@ class AdminMiddleware
         }
 
         return redirect($urlLogin)->with('url.intended',$urlIntended); //with方法带一个session参数，重定向
-
-
     }
 }
