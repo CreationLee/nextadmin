@@ -14,3 +14,10 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::group(['namespace'=>'Admin', 'prefix'=>'/admin', 'middleware'=>'admin'], function() {
+    Route::get('login','AdminAuthController@login');
+
+    Route::get('test','TestController@test');
+
+});
