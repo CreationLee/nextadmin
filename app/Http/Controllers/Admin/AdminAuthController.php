@@ -9,9 +9,9 @@ use Illuminate\Foundation\Auth\AuthenticatesUsers;
 class AdminAuthController extends Controller
 {
     use AuthenticatesUsers;
-    
+
     public function login()
-    {   echo 33;
-        //return view('admin::login');
+    {
+        return view('Admin.login');
     }
 }
