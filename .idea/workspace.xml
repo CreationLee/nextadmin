@@ -2,725 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dce68890-9397-4419-b089-32e480eab647" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/fonts/voyager/fonts/voyager.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/fonts/voyager/fonts/voyager.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/fonts/voyager/fonts/voyager.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/images/bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/images/captain-avatar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/images/large-logo-icon-light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/images/large-logo-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/images/logo-icon-light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/images/logo-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/images/voyager-character.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/images/voyager-character.sketch" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/images/voyer-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/images/widget-backgrounds/01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/images/widget-backgrounds/02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/images/widget-backgrounds/03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/images/widget-backgrounds/04.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/img/app-header-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/img/backdrop/micro_carbon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/img/backdrop/tactile_noise.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/img/bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/img/bg/picjumbo.com_HNCK3558.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/img/contact-us-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/img/profile/picjumbo.com_HNCK4153_resize.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/img/profile/profile-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/img/screenshots/dashboard.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/img/screenshots/landing.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/img/screenshots/login.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/img/screenshots/theming.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/img/thumbnails/picjumbo.com_HNCK4737.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/img/thumbnails/picjumbo.com_IMG_3241.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/img/thumbnails/picjumbo.com_IMG_4566.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/dropzone/spritemap.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/dropzone/spritemap@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/icheck/blue.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/emoticons/img/smiley-cool.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/emoticons/img/smiley-cry.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/emoticons/img/smiley-embarassed.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/emoticons/img/smiley-foot-in-mouth.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/emoticons/img/smiley-frown.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/emoticons/img/smiley-innocent.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/emoticons/img/smiley-kiss.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/emoticons/img/smiley-laughing.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/emoticons/img/smiley-money-mouth.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/emoticons/img/smiley-sealed.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/emoticons/img/smiley-smile.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/emoticons/img/smiley-surprised.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/emoticons/img/smiley-tongue-out.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/emoticons/img/smiley-undecided.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/emoticons/img/smiley-wink.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/emoticons/img/smiley-yell.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/giphy/html/img/clear.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/giphy/html/img/giphy_icon_128.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/giphy/html/img/giphy_icon_16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/giphy/html/img/giphy_icon_19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/giphy/html/img/giphy_icon_38.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/giphy/html/img/giphy_icon_48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/giphy/html/img/giphy_logo_laser.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/giphy/html/img/giphy_logo_txt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/giphy/html/img/icon_add.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/giphy/html/img/icon_back.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/giphy/html/img/icon_categories.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/giphy/html/img/icon_email.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/giphy/html/img/icon_facebook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/giphy/html/img/icon_heart_red.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/giphy/html/img/icon_heart_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/giphy/html/img/icon_link_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/giphy/html/img/icon_menu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/giphy/html/img/icon_reactions.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/giphy/html/img/icon_search.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/giphy/html/img/icon_sms.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/giphy/html/img/icon_twitter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/giphy/html/img/loader_purple.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/giphy/img/clear.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/giphy/img/giphyicon20px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/giphy/img/giphyiconoff20px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/media/moxieplayer.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/youtube/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/youtube/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/youtube/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/youtube/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/youtube/preview.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/youtube/slider/css/slide.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/skins/lightgray/fonts/tinymce-small.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/skins/lightgray/fonts/tinymce-small.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/skins/lightgray/fonts/tinymce-small.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/skins/lightgray/fonts/tinymce.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/skins/lightgray/fonts/tinymce.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/skins/lightgray/fonts/tinymce.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/skins/lightgray/img/anchor.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/skins/lightgray/img/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/skins/lightgray/img/object.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/skins/lightgray/img/trans.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/skins/voyager/fonts/tinymce-small.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/skins/voyager/fonts/tinymce-small.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/skins/voyager/fonts/tinymce-small.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/skins/voyager/fonts/tinymce.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/skins/voyager/fonts/tinymce.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/skins/voyager/fonts/tinymce.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/skins/voyager/img/anchor.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/skins/voyager/img/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/skins/voyager/img/object.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/skins/voyager/img/trans.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/image.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/voyager.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2016_01_01_000000_add_voyager_user_fields.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2016_01_01_000000_create_data_types_table.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2016_01_01_000000_create_pages_table.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2016_01_01_000000_create_posts_table.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2016_02_15_204651_create_categories_table.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2016_05_19_173453_create_menu_table.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2016_10_21_190000_create_roles_table.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2016_10_21_190000_create_settings_table.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2016_11_30_135954_create_permission_table.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2016_11_30_141208_create_permission_role_table.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2016_12_26_201236_data_types__add__server_side.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2017_01_13_000000_add_route_to_menu_items_table.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2017_01_14_005015_create_translations_table.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2017_01_15_000000_add_permission_group_id_to_permissions_table.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2017_01_15_000000_create_permission_groups_table.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2017_01_15_000000_make_table_name_nullable_in_permissions_table.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2017_03_06_000000_add_controller_to_data_types_table.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/migrations/2017_04_21_000000_add_order_to_data_rows_table.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/seeds/CategoriesTableSeeder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/seeds/DataRowsTableSeeder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/seeds/DataTypesTableSeeder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/seeds/MenuItemsTableSeeder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/seeds/MenusTableSeeder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/seeds/PagesTableSeeder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/seeds/PermissionRoleTableSeeder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/seeds/PermissionsTableSeeder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/seeds/PostsTableSeeder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/seeds/RolesTableSeeder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/seeds/SettingsTableSeeder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/seeds/TranslationsTableSeeder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/seeds/UsersTableSeeder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/seeds/VoyagerDatabaseSeeder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database/seeds/VoyagerDummyDatabaseSeeder.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/css/animate.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/css/bootstrap-toggle.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/css/database.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/css/ga-embed.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/css/login.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/css/media/dropzone.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/css/media/media.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/css/nestable.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/css/themes.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/css/themes/flat-blue.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/css/themes/flat-green.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/css/voyager.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/fonts/voyager/fonts/voyager.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/fonts/voyager/icons-reference.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/fonts/voyager/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/images/helm.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/alert.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/bootstrap-toggle.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/button.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/card.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/chartjs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/datetimepicker/bootstrap-datetimepicker.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/datetimepicker/bootstrap-datetimepicker.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/dropzone/dropzone.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/dropzone/dropzone.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/ga-embed/active-users.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/ga-embed/chart.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/ga-embed/date-range-selector.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/ga-embed/moment.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/ga-embed/view-selector2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/helpers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/icheck/icheck.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/icheck/icheck.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/jquery-2.1.4.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/jquery.cookie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/jquery.nestable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/list.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/media/dropzone.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/media/media.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/modal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/moment-with-locales.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/multilingual.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/readmore.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/select2/i18n/ar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/select2/i18n/az.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/select2/i18n/bg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/select2/i18n/ca.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/select2/i18n/cs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/select2/i18n/da.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/select2/i18n/de.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/select2/i18n/el.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/select2/i18n/en.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/select2/i18n/es.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/select2/i18n/et.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/select2/i18n/eu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/select2/i18n/fa.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/select2/i18n/fi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/select2/i18n/fr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/select2/i18n/gl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/select2/i18n/he.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/select2/i18n/hi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/select2/i18n/hr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/select2/i18n/hu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/select2/i18n/id.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/select2/i18n/is.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/select2/i18n/it.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/select2/i18n/ja.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/select2/i18n/km.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/select2/i18n/ko.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/select2/i18n/lt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/select2/i18n/lv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/select2/i18n/mk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/select2/i18n/ms.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/select2/i18n/nb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/select2/i18n/nl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/select2/i18n/pl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/select2/i18n/pt-BR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/select2/i18n/pt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/select2/i18n/ro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/select2/i18n/ru.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/select2/i18n/sk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/select2/i18n/sr-Cyrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/select2/i18n/sr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/select2/i18n/sv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/select2/i18n/th.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/select2/i18n/tr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/select2/i18n/uk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/select2/i18n/vi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/select2/i18n/zh-CN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/select2/i18n/zh-TW.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/select2/select2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/select2/select2.full.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/select2/select2.full.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/select2/select2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/select2/select2.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/select2/select2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/slugify.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/theming.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/val.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/voyager_ace_editor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/voyager_tinymce.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/vue1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/js/vue21.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/css/animate.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/css/bootstrap-switch.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/css/checkbox3.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/css/dataTables.bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/css/jquery.dataTables.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/css/perfect-scrollbar.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/css/responsive.dataTables.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/css/select2.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/css/toastr.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/Chart.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/ace.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/ext-beautify.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/ext-chromevox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/ext-elastic_tabstops_lite.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/ext-emmet.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/ext-error_marker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/ext-keybinding_menu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/ext-language_tools.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/ext-linking.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/ext-modelist.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/ext-old_ie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/ext-searchbox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/ext-settings_menu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/ext-spellcheck.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/ext-split.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/ext-static_highlight.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/ext-statusbar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/ext-textarea.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/ext-themelist.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/ext-whitespace.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/keybinding-emacs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/keybinding-vim.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-abap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-abc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-actionscript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-ada.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-apache_conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-applescript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-asciidoc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-assembly_x86.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-autohotkey.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-batchfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-c9search.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-c_cpp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-cirru.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-clojure.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-cobol.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-coffee.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-coldfusion.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-csharp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-css.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-curly.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-d.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-dart.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-diff.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-django.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-dockerfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-dot.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-eiffel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-ejs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-elixir.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-elm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-erlang.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-forth.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-fortran.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-ftl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-gcode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-gherkin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-gitignore.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-glsl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-gobstones.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-golang.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-groovy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-haml.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-handlebars.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-haskell.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-haxe.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-html.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-html_elixir.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-html_ruby.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-ini.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-io.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-jack.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-jade.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-java.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-javascript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-json.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-jsoniq.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-jsp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-jsx.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-julia.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-latex.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-lean.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-less.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-liquid.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-lisp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-live_script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-livescript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-logiql.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-lsl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-lua.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-luapage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-lucene.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-makefile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-markdown.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-mask.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-matlab.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-maze.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-mel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-mips_assembler.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-mipsassembler.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-mushcode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-mysql.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-nix.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-nsis.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-objectivec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-ocaml.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-pascal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-perl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-pgsql.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-php.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-plain_text.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-powershell.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-praat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-prolog.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-properties.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-protobuf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-python.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-r.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-razor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-rdoc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-rhtml.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-rst.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-ruby.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-rust.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-sass.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-scad.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-scala.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-scheme.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-scss.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-sh.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-sjs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-smarty.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-snippets.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-soy_template.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-space.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-sql.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-sqlserver.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-stylus.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-svg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-swift.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-swig.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-tcl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-tex.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-text.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-textile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-toml.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-twig.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-typescript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-vala.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-vbscript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-velocity.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-verilog.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-vhdl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-wollok.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-xml.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-xquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/mode-yaml.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/abap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/abc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/actionscript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/ada.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/apache_conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/applescript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/asciidoc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/assembly_x86.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/autohotkey.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/batchfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/c9search.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/c_cpp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/cirru.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/clojure.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/cobol.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/coffee.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/coldfusion.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/csharp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/css.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/curly.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/d.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/dart.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/diff.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/django.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/dockerfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/dot.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/eiffel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/ejs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/elixir.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/elm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/erlang.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/forth.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/fortran.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/ftl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/gcode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/gherkin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/gitignore.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/glsl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/gobstones.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/golang.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/groovy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/haml.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/handlebars.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/haskell.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/haxe.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/html.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/html_elixir.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/html_ruby.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/ini.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/io.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/jack.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/jade.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/java.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/javascript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/json.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/jsoniq.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/jsp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/jsx.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/julia.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/latex.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/lean.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/less.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/liquid.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/lisp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/live_script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/livescript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/logiql.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/lsl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/lua.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/luapage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/lucene.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/makefile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/markdown.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/mask.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/matlab.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/maze.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/mel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/mips_assembler.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/mipsassembler.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/mushcode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/mysql.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/nix.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/nsis.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/objectivec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/ocaml.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/pascal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/perl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/pgsql.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/php.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/plain_text.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/powershell.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/praat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/prolog.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/properties.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/protobuf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/python.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/r.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/razor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/rdoc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/rhtml.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/rst.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/ruby.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/rust.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/sass.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/scad.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/scala.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/scheme.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/scss.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/sh.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/sjs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/smarty.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/snippets.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/soy_template.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/space.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/sql.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/sqlserver.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/stylus.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/svg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/swift.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/swig.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/tcl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/tex.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/text.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/textile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/toml.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/twig.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/typescript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/vala.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/vbscript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/velocity.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/verilog.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/vhdl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/wollok.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/xml.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/xquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/snippets/yaml.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/theme-ambiance.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/theme-chaos.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/theme-chrome.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/theme-clouds.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/theme-clouds_midnight.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/theme-cobalt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/theme-crimson_editor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/theme-dawn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/theme-dreamweaver.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/theme-eclipse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/theme-github.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/theme-idle_fingers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/theme-iplastic.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/theme-katzenmilch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/theme-kr_theme.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/theme-kuroir.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/theme-merbivore.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/theme-merbivore_soft.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/theme-mono_industrial.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/theme-monokai.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/theme-pastel_on_dark.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/theme-solarized_dark.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/theme-solarized_light.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/theme-sqlserver.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/theme-terminal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/theme-textmate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/theme-tomorrow.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/theme-tomorrow_night.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/theme-tomorrow_night_blue.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/theme-tomorrow_night_bright.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/theme-tomorrow_night_eighties.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/theme-twilight.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/theme-vibrant_ink.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/theme-xcode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/worker-coffee.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/worker-css.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/worker-html.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/worker-javascript.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/worker-json.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/worker-lua.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/worker-php.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/worker-xml.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/ace/worker-xquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/bootstrap-switch.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/dataTables.bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/dataTables.responsive.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/jquery.dataTables.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/jquery.matchHeight-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/jsonarea/jsonarea.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/perfect-scrollbar.jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/select2.full.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/langs/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/license.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/advlist/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/anchor/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/autolink/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/autoresize/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/autosave/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/bbcode/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/charmap/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/code/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/codesample/css/prism.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/codesample/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/colorpicker/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/contextmenu/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/directionality/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/emoticons/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/example/dialog.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/example/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/example_dependency/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/fullpage/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/fullscreen/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/giphy/html/css/giphyPopup.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/giphy/html/giphy.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/giphy/html/js/GiphySearch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/giphy/html/js/giphy_cms_ext.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/giphy/html/js/imagesloaded.pkgd.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/giphy/html/js/init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/giphy/html/js/jquery.xdomainrequest.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/giphy/html/js/masonry.pkgd.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/giphy/html/js/newT.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/giphy/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/hr/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/image/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/imagetools/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/importcss/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/insertdatetime/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/layer/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/legacyoutput/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/link/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/lists/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/media/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/nonbreaking/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/noneditable/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/pagebreak/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/paste/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/preview/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/print/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/save/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/searchreplace/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/spellchecker/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/tabfocus/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/table/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/template/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/textcolor/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/textpattern/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/toc/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/visualblocks/css/visualblocks.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/visualblocks/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/visualchars/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/wordcount/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/youtube/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/youtube/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/youtube/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/youtube/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/youtube/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/youtube/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/youtube/js/jQuery.jQTubeUtil.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/youtube/js/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/youtube/js/jquery.yt_data_v3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/youtube/js/modernizr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/youtube/js/mustache.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/youtube/js/youtube.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/youtube/langs/de.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/youtube/langs/en.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/youtube/langs/nl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/youtube/plugin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/youtube/slider/css/slider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/youtube/slider/js/bootstrap-slider.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/youtube/slider/less/slider.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/youtube/template/forms.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/plugins/youtube/youtube.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/skins/lightgray/content.inline.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/skins/lightgray/content.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/skins/lightgray/fonts/tinymce-small.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/skins/lightgray/fonts/tinymce.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/skins/lightgray/skin.ie7.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/skins/lightgray/skin.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/skins/voyager/Variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/skins/voyager/content.inline.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/skins/voyager/content.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/skins/voyager/fonts/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/skins/voyager/fonts/tinymce-small.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/skins/voyager/fonts/tinymce-small.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/skins/voyager/fonts/tinymce.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/skins/voyager/fonts/tinymce.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/skins/voyager/skin.ie7.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/skins/voyager/skin.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/skins/voyager/skin.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/themes/modern/theme.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/tinymce/tinymce.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/tcg/voyager/assets/lib/js/toastr.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/voyager.sql" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Kernel.php" afterPath="$PROJECT_DIR$/app/Http/Kernel.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/app.php" afterPath="$PROJECT_DIR$/config/app.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/mail.php" afterPath="$PROJECT_DIR$/config/mail.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/AdminAuthController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/AdminAuthController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Models/Setting.php" afterPath="$PROJECT_DIR$/app/Models/Setting.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Service/AdminService.php" afterPath="$PROJECT_DIR$/app/Service/AdminService.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/Admin/login.blade.php" afterPath="$PROJECT_DIR$/resources/views/Admin/login.blade.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/web.php" afterPath="$PROJECT_DIR$/routes/web.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -734,22 +20,32 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="AdminAuthController.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/AdminAuthController.php">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/AdminAuthController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+            <state relative-caret-position="253">
+              <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
               <folding>
-                <element signature="e#46#74#0#PHP" expanded="true" />
+                <element signature="e#40#68#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IndexController.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/IndexController.php">
+      <file leaf-file-name="login.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/Admin/login.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+            <state relative-caret-position="184">
+              <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdminFacades.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Facades/AdminFacades.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -758,8 +54,8 @@
       <file leaf-file-name="AdminMiddleware.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Http/Middleware/AdminMiddleware.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="650">
-              <caret line="32" column="95" lean-forward="false" selection-start-line="32" selection-start-column="95" selection-end-line="32" selection-end-column="95" />
+            <state relative-caret-position="667">
+              <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
               <folding>
                 <element signature="e#39#51#0#PHP" expanded="true" />
               </folding>
@@ -767,61 +63,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Kernel.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Http/Kernel.php">
+      <file leaf-file-name="web.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/routes/web.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="604">
-              <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/app.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-490">
-              <caret line="191" column="50" lean-forward="false" selection-start-line="191" selection-start-column="50" selection-end-line="191" selection-end-column="50" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mail.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/mail.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1489">
-              <caret line="27" column="70" lean-forward="false" selection-start-line="27" selection-start-column="70" selection-end-line="27" selection-end-column="70" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="composer.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/composer.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="composer.lock" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/composer.lock">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-598">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state relative-caret-position="437">
+              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -830,11 +76,31 @@
       <file leaf-file-name="AdminService.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Service/AdminService.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="552">
-              <caret line="24" column="35" lean-forward="false" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+            <state relative-caret-position="529">
+              <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
               <folding>
                 <element signature="e#31#51#0#PHP" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdminServiceProvider.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Providers/AdminServiceProvider.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="621">
+              <caret line="28" column="11" lean-forward="false" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Setting.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Models/Setting.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -845,7 +111,13 @@
     <findStrings>
       <find>getP</find>
       <find>guessBelongsToManyRelation</find>
+      <find>voyager_asset</find>
+      <find>Voyager</find>
     </findStrings>
+    <replaceStrings>
+      <replace>asset</replace>
+      <replace>AdminFacades</replace>
+    </replaceStrings>
     <dirStrings>
       <dir>F:\WEB\study\nextadmin</dir>
     </dirStrings>
@@ -866,17 +138,21 @@
         <option value="$PROJECT_DIR$/app/Facades/AdminFacades.php" />
         <option value="$PROJECT_DIR$/app/Models/User.php" />
         <option value="$PROJECT_DIR$/app/Traits/AdminUser.php" />
-        <option value="$PROJECT_DIR$/routes/web.php" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/AdminAuthController.php" />
-        <option value="$PROJECT_DIR$/resources/views/Admin/login.blade.php" />
-        <option value="$PROJECT_DIR$/app/Http/Middleware/AdminMiddleware.php" />
-        <option value="$PROJECT_DIR$/app/Service/AdminService.php" />
         <option value="$PROJECT_DIR$/app/Http/Kernel.php" />
         <option value="$PROJECT_DIR$/config/app.php" />
         <option value="$PROJECT_DIR$/config/mail.php" />
         <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/composer.lock" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/app/Models/Setting.php" />
+        <option value="$PROJECT_DIR$/app/Service/AdminService.php" />
+        <option value="$PROJECT_DIR$/config/database.php" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/app/Http/Middleware/AdminMiddleware.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/AdminAuthController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/AdminAuthController.php" />
+        <option value="$PROJECT_DIR$/resources/views/Admin/login.blade.php" />
+        <option value="$PROJECT_DIR$/routes/web.php" />
       </list>
     </option>
   </component>
@@ -895,8 +171,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1924" />
-    <option name="height" value="1084" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -913,6 +189,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -936,39 +213,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nextadmin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nextadmin" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nextadmin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nextadmin" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
+              <option name="myItemId" value="routes" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -1000,7 +245,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Http" />
+              <option name="myItemId" value="Service" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -1018,11 +263,25 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Http" />
+              <option name="myItemId" value="Providers" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nextadmin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nextadmin" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Middleware" />
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Models" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -1041,10 +300,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Http" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Controllers" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -1068,7 +323,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1077,6 +331,10 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../pattern" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\WEB\study\nextadmin\app\Http\Controllers" />
+      <recent name="F:\WEB\study\nextadmin\app\Http\Controllers\Admin" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\WEB\study\nextadmin\resources\views\Admin" />
     </key>
@@ -1183,18 +441,22 @@
       <workItem from="1510837467152" duration="2758000" />
       <workItem from="1510974265096" duration="11133000" />
       <workItem from="1511062128778" duration="4735000" />
-      <workItem from="1511178763851" duration="7453000" />
+      <workItem from="1511178763851" duration="7678000" />
+      <workItem from="1511526031710" duration="4805000" />
+      <workItem from="1511532628871" duration="864000" />
+      <workItem from="1511663087456" duration="8743000" />
+      <workItem from="1511786348851" duration="420000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29659000" />
+    <option name="totallyTimeSpent" value="44716000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1924" height="1084" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27699783" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29077253" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1202,7 +464,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33767644" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3376206" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1225,65 +487,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/routes/web.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="17" column="77" lean-forward="false" selection-start-line="17" selection-start-column="72" selection-end-line="17" selection-end-column="77" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/AdminMiddleware.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
-          <folding>
-            <element signature="e#39#51#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Service/AdminService.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="54" lean-forward="false" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
-          <folding>
-            <element signature="e#31#51#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Models/User.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="e#30#78#0#PHP" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasRelationships.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11440">
-          <caret line="520" column="20" lean-forward="false" selection-start-line="520" selection-start-column="20" selection-end-line="520" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Kernel.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1276">
-          <caret line="58" column="62" lean-forward="false" selection-start-line="58" selection-start-column="62" selection-end-line="58" selection-end-column="62" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Traits/AdminUser.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="10" column="27" lean-forward="false" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1299,7 +506,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1307,7 +513,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3916">
           <caret line="178" column="50" lean-forward="false" selection-start-line="178" selection-start-column="50" selection-end-line="178" selection-end-column="50" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1451,25 +656,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Providers/AdminServiceProvider.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="27" column="36" lean-forward="true" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/helpers.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="205">
           <caret line="943" column="13" lean-forward="false" selection-start-line="943" selection-start-column="13" selection-end-line="943" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/User.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1492,7 +682,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1500,17 +689,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="18" column="6" lean-forward="false" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Models/User.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="e#30#78#0#PHP" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1518,75 +696,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="520" column="20" lean-forward="false" selection-start-line="520" selection-start-column="20" selection-end-line="520" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Traits/AdminUser.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-10">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="7" column="6" lean-forward="false" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/web.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13">
-          <caret line="22" column="36" lean-forward="false" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Facades/AdminFacades.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-10">
-          <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/Admin/login.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-10">
-          <caret line="8" column="42" lean-forward="false" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Models/Setting.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/AdminMiddleware.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="32" column="95" lean-forward="false" selection-start-line="32" selection-start-column="95" selection-end-line="32" selection-end-column="95" />
-          <folding>
-            <element signature="e#39#51#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/AdminAuthController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-          <folding>
-            <element signature="e#46#74#0#PHP" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1598,13 +707,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Service/AdminService.php">
+    <entry file="file://$PROJECT_DIR$/composer.lock">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="24" column="35" lean-forward="false" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
-          <folding>
-            <element signature="e#31#51#0#PHP" expanded="true" />
-          </folding>
+        <state relative-caret-position="138">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="11" lean-forward="true" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/mail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="27" column="70" lean-forward="false" selection-start-line="27" selection-start-column="70" selection-end-line="27" selection-end-column="70" />
         </state>
       </provider>
     </entry>
@@ -1616,42 +743,154 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/app.php">
+    <entry file="file://$PROJECT_DIR$/app/User.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-490">
-          <caret line="191" column="50" lean-forward="false" selection-start-line="191" selection-start-column="50" selection-end-line="191" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/mail.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1489">
-          <caret line="27" column="70" lean-forward="false" selection-start-line="27" selection-start-column="70" selection-end-line="27" selection-end-column="70" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/composer.lock">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-598">
+        <state relative-caret-position="115">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
+    <entry file="file://$PROJECT_DIR$/config/voyager.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-488">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="258" column="13" lean-forward="false" selection-start-line="258" selection-start-column="13" selection-end-line="258" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/app/Traits/AdminUser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="6" lean-forward="false" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="14" lean-forward="false" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+          <folding>
+            <element signature="e#30#78#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env.example">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="43" column="50" lean-forward="true" selection-start-line="43" selection-start-column="50" selection-end-line="43" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Setting.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="805">
+          <caret line="192" column="50" lean-forward="true" selection-start-line="192" selection-start-column="50" selection-end-line="192" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/AdminMiddleware.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding>
+            <element signature="e#39#51#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Facades/AdminFacades.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/AdminAuthController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="e#40#68#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/AdminServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="28" column="11" lean-forward="false" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Admin/login.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Service/AdminService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+          <folding>
+            <element signature="e#31#51#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding />
         </state>
       </provider>

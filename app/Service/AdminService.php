@@ -20,12 +20,11 @@ class AdminService
     public function setting($key, $default = null)
     {
         $setting = Setting::where('key','=',$key)->first();
-
         if (isset($setting->id)) {
             return $setting->value;
         }
 
-
+        return $default;
     }
 
 

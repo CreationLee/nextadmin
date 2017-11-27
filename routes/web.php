@@ -15,12 +15,13 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-
-<<<<<<< HEAD
+Route::get('login', function() {
+    echo  AdminFacades::setting('title');die;
+});
 
 Route::group(['prefix' => 'admin', 'namespace'=>'Admin'], function () {
 
-    Route::get('login', ['uses' => 'AdminAuthController@login', 'as' => 'login']);
+
 
     Route::group(['middleware'=>'admin'], function (){
         Route::get('/', ['uses' => 'IndexController@index',   'as' => 'dashboard']);
@@ -30,8 +31,3 @@ Route::group(['prefix' => 'admin', 'namespace'=>'Admin'], function () {
 
 
 });
-=======
-Route::group(['prefix' => 'admin'], function () {
-    Voyager::routes();
-});
->>>>>>> 29b76a6f22d2c5f4250bcbdbe281b0f1197945d2

@@ -6,14 +6,14 @@
     <meta name="robots" content="none" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">
     <meta name="description" content="admin login">
-    <title>Admin - {{ AdminFacades::setting("title") }}</title>
-    <link rel="stylesheet" href="{{ voyager_asset('lib/css/bootstrap.min.css') }}">
-    <link rel="stylesheet" href="{{ voyager_asset('css/animate.min.css') }}">
-    <link rel="stylesheet" href="{{ voyager_asset('css/login.css') }}">
+    <title>Admin - </title>
+    <link rel="stylesheet" href="{{ asset('lib/css/bootstrap.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('css/animate.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('css/login.css') }}">
     <style>
         body {
-            background-image:url('{{ Voyager::image( Voyager::setting("admin_bg_image"), config('voyager.assets_path') . "/images/bg.jpg" ) }}');
-            background-color: {{ Voyager::setting("admin_bg_color", "#FFFFFF" ) }};
+            background-image:url('{{ \App\Facades\AdminFacades::image( AdminFacades::setting("admin_bg_image"), config('voyager.assets_path') . "/images/bg.jpg" ) }}');
+            background-color: {{ AdminFacades::setting("admin_bg_color", "#FFFFFF" ) }};
         }
         .login-sidebar:after {
             background: linear-gradient(-135deg, {{config('voyager.login.gradient_a','#ffffff')}}, {{config('voyager.login.gradient_b','#ffffff')}});
@@ -33,18 +33,18 @@
     <div class="row">
         <div class="faded-bg animated"></div>
         <div class="hidden-xs col-sm-8 col-md-9">
-            <div class="clearfix">
+            <div class="clearfix">{{Auth::check()}}}
                 <div class="col-sm-12 col-md-10 col-md-offset-2">
                     <div class="logo-title-container">
-                        <?php $admin_logo_img = Voyager::setting('admin_icon_image', ''); ?>
+                        <?php $admin_logo_img = AdminFacades::setting('admin_icon_image', ''); ?>
                         @if($admin_logo_img == '')
-                        <img class="img-responsive pull-left logo hidden-xs animated fadeIn" src="{{ voyager_asset('images/logo-icon-light.png') }}" alt="Logo Icon">
+                        <img class="img-responsive pull-left logo hidden-xs animated fadeIn" src="{{ asset('images/logo-icon-light.png') }}" alt="Logo Icon">
                         @else
-                        <img class="img-responsive pull-left logo hidden-xs animated fadeIn" src="{{ Voyager::image($admin_logo_img) }}" alt="Logo Icon">
+                        <img class="img-responsive pull-left logo hidden-xs animated fadeIn" src="{{ AdminFacades::image($admin_logo_img) }}" alt="Logo Icon">
                         @endif
                         <div class="copy animated fadeIn">
-                            <h1>{{ Voyager::setting('admin_title', 'Voyager') }}</h1>
-                            <p>{{ Voyager::setting('admin_description', 'Welcome to Voyager. The Missing Admin for Laravel') }}</p>
+                            <h1>{{ AdminFacades::setting('admin_title', 'Voyager') }}</h1>
+                            <p>{{ AdminFacades::setting('admin_description', 'Welcome to Voyager. The Missing Admin for Laravel') }}</p>
                         </div>
                     </div> <!-- .logo-title-container -->
                 </div>
