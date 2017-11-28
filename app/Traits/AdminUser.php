@@ -1,8 +1,15 @@
 <?php
 namespace App\Traits;
 
+use App\Facades\AdminFacades;
+
 trait AdminUser
 {
+    public function role()
+    {
+        return $this->belongsTo(AdminFacades::modelClass('Role'));
+    }
+
     //检测管理员权限
     public function hasPermission($name)
     {

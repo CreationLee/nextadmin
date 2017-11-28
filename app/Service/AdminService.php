@@ -4,12 +4,14 @@ namespace App\Service;
 
 use App\Models\User;
 use App\Models\Setting;
+use Illuminate\Support\Facades\Storage;
 
 class AdminService
 {
 
     protected $models = [
         'User' => User::class,
+        'Role' => Role::class,
     ];
 
     public function model($name)
@@ -23,6 +25,8 @@ class AdminService
         if (isset($setting->id)) {
             return $setting->value;
         }
+
+        return $default;
     }
 
     public function image($file, $default='')
@@ -34,5 +38,8 @@ class AdminService
         return $default;
     }
 
-
+    public function modelClass($name)
+    {
+        return $this->models[$name];
+    }
 }

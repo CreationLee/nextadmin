@@ -7,24 +7,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">
     <meta name="description" content="admin login">
     <title>Admin - </title>
-    <link rel="stylesheet" href="{{ asset('lib/css/bootstrap.min.css') }}">
-    <link rel="stylesheet" href="{{ asset('css/animate.min.css') }}">
-    <link rel="stylesheet" href="{{ asset('css/login.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/lib/css/bootstrap.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/css/animate.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/css/login.css') }}">
     <style>
         body {
-            background-image:url('{{ \App\Facades\AdminFacades::image( AdminFacades::setting("admin_bg_image"), config('voyager.assets_path') . "/images/bg.jpg" ) }}');
+            background-image:url('{{ AdminFacades::image( AdminFacades::setting("admin_bg_image"), config('admin.assets_path') . "/images/bg.jpg" ) }}');
             background-color: {{ AdminFacades::setting("admin_bg_color", "#FFFFFF" ) }};
         }
         .login-sidebar:after {
             background: linear-gradient(-135deg, {{config('voyager.login.gradient_a','#ffffff')}}, {{config('voyager.login.gradient_b','#ffffff')}});
-            background: -webkit-linear-gradient(-135deg, {{config('voyager.login.gradient_a','#ffffff')}}, {{config('voyager.login.gradient_b','#ffffff')}});
+            background: -webkit-linear-gradient(-135deg, {{config('voyager.login.gradient_a','#ffffff')}}, {{config('admin.login.gradient_b','#ffffff')}});
         }
         .login-button, .bar:before, .bar:after{
             background:{{ config('voyager.primary_color','#22A7F0') }};
         }
 
     </style>
-
     <link href='https://fonts.googleapis.com/css?family=Roboto:400,700' rel='stylesheet' type='text/css'>
 </head>
 <body>
@@ -33,12 +32,12 @@
     <div class="row">
         <div class="faded-bg animated"></div>
         <div class="hidden-xs col-sm-8 col-md-9">
-            <div class="clearfix">{{Auth::check()}}}
+            <div class="clearfix">
                 <div class="col-sm-12 col-md-10 col-md-offset-2">
                     <div class="logo-title-container">
                         <?php $admin_logo_img = AdminFacades::setting('admin_icon_image', ''); ?>
                         @if($admin_logo_img == '')
-                        <img class="img-responsive pull-left logo hidden-xs animated fadeIn" src="{{ asset('images/logo-icon-light.png') }}" alt="Logo Icon">
+                        <img class="img-responsive pull-left logo hidden-xs animated fadeIn" src="{{ asset('assets/images/logo-icon-light.png') }}" alt="Logo Icon">
                         @else
                         <img class="img-responsive pull-left logo hidden-xs animated fadeIn" src="{{ AdminFacades::image($admin_logo_img) }}" alt="Logo Icon">
                         @endif
@@ -57,7 +56,7 @@
 
                 <h2>Sign In Below:</h2>
 
-                <form action="{{ route('voyager.login') }}" method="POST">
+                <form action="{{ route('login') }}" method="POST">
                 {{ csrf_field() }}
                 <div class="group">      
                   <input type="text" name="email" value="{{ old('email') }}" required>

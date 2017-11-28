@@ -6,7 +6,6 @@ use App\Facades\AdminFacades;
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Foundation\AliasLoader;
 use App\Service\AdminService;
-use App\Facades\AdminFacades;
 
 class AdminServiceProvider extends ServiceProvider
 {
