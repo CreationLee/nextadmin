@@ -1,7 +1,10 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: leekun
- * Date: 2017/11/27
- * Time: 17:40
- */
+
+if(!function_exists('admin_asset')) {
+
+    function admin_asset($path, $secure = null)
+    {
+        return asset(config('admin.asset_path').'/'.$path,$secure);
+    }
+
+}

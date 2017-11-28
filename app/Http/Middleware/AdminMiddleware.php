@@ -23,8 +23,7 @@ class AdminMiddleware
             return $user->hasPermission('browse_admin')? $next($request) : redirect('/');
         }
 
-        $urlLogin = route('admin.test');
-        echo $urlLogin;die;
+        $urlLogin = route('login');
 
         return redirect($urlLogin);
     }

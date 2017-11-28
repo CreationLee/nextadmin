@@ -2,7 +2,9 @@
 
 namespace App\Providers;
 
+use App\Facades\AdminFacades;
 use Illuminate\Support\ServiceProvider;
+use Illuminate\Foundation\AliasLoader;
 use App\Service\AdminService;
 
 class AdminServiceProvider extends ServiceProvider
@@ -24,16 +26,13 @@ class AdminServiceProvider extends ServiceProvider
      */
     public function register()
     {
-<<<<<<< HEAD
 
-        $this->app->singleton('Admin',function(){
-            return new AdminService();
-        });
+        //将服务以门面的方式注册到容器中
+        $loader = AliasLoader::getInstance();
+        $loader->alias('AdminFacades', AdminFacades::class);
 
-=======
         $this->app->singleton('Admin', function () {
             return new AdminService;
         });
->>>>>>> 45ef0167b8612174e00cd4c57dae797c0e0729ac
     }
 }
