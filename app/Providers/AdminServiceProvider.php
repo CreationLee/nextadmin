@@ -6,6 +6,7 @@ use App\Facades\AdminFacades;
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Foundation\AliasLoader;
 use App\Service\AdminService;
+use App\Facades\AdminFacades;
 
 class AdminServiceProvider extends ServiceProvider
 {
@@ -26,13 +27,23 @@ class AdminServiceProvider extends ServiceProvider
      */
     public function register()
     {
-
-        //将服务以门面的方式注册到容器中
         $loader = AliasLoader::getInstance();
-        $loader->alias('AdminFacades', AdminFacades::class);
+        $loader->alias('AdminFacades',AdminFacades::class);
 
         $this->app->singleton('Admin', function () {
             return new AdminService;
         });
+
+        $this->loadHelpers();
+    }
+
+    /**
+     * load helpers.
+     */
+    protected function loadHelpers()
+    {
+        foreach (glob(base_path().'/app//Helpers/*.php') as $filename ) {
+            require_once $filename;
+        }
     }
 }

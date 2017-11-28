@@ -4,7 +4,6 @@ namespace App\Service;
 
 use App\Models\User;
 use App\Models\Setting;
-use Illuminate\Support\Facades\Storage;
 
 class AdminService
 {
@@ -21,7 +20,6 @@ class AdminService
     public function setting($key, $default = null)
     {
         $setting = Setting::where('key','=',$key)->first();
-
         if (isset($setting->id)) {
             return $setting->value;
         }
