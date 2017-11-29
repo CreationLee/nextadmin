@@ -14,13 +14,13 @@
                     <li class="active"><i class="voyager-boat"></i> Dashboard</li>
                 @else
                     <li class="active">
-                        <a href="{{ route('voyager.dashboard')}}"><i class="voyager-boat"></i> Dashboard</a>
+                        <a href="{{ route('admin.dashboard')}}"><i class="voyager-boat"></i> Dashboard</a>
                     </li>
                 @endif
                 <?php $breadcrumb_url = url(''); ?>
                 @for($i = 1; $i <= count(Request::segments()); $i++)
                     <?php $breadcrumb_url .= '/' . Request::segment($i); ?>
-                    @if(Request::segment($i) != ltrim(route('voyager.dashboard', [], false), '/') && !is_numeric(Request::segment($i)))
+                    @if(Request::segment($i) != ltrim(route('admin.dashboard', [], false), '/') && !is_numeric(Request::segment($i)))
 
                         @if($i < count(Request::segments()) & $i > 0)
                             <li class="active"><a
@@ -53,7 +53,7 @@
                     @foreach($nav_items as $name => $item)
                     <li {!! isset($item['classes']) && !empty($item['classes']) ? 'class="'.$item['classes'].'"' : '' !!}>
                         @if(isset($item['route']) && $item['route'] == 'voyager.logout')
-                        <form action="{{ route('voyager.logout') }}" method="POST">
+                        <form action="{{ route('admin.logout') }}" method="POST">
                             {{ csrf_field() }}
                             <button type="submit" class="btn btn-danger btn-block">
                                 @if(isset($item['icon_class']) && !empty($item['icon_class']))

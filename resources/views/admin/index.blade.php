@@ -1,15 +1,14 @@
-@extends('voyager::master')
+@extends('admin.master')
 
 @section('css')
-    <link rel="stylesheet" type="text/css" href="{{ voyager_asset('css/ga-embed.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/ga-embed.css') }}">
 @stop
 
 @section('content')
     <div class="page-content">
-        @include('voyager::alerts')
-        @include('voyager::dimmers')
+
         <div style="padding:15px;">
-            <?php $google_analytics_client_id = Voyager::setting("google_analytics_client_id"); ?>
+            <?php $google_analytics_client_id = AdminFacades::setting("google_analytics_client_id"); ?>
             @if (isset($google_analytics_client_id) && !empty($google_analytics_client_id))
                 {{-- Google Analytics Embed --}}
                 <div id="embed-api-auth-container"></div>
@@ -104,14 +103,14 @@
             }(window, document, 'script'));
         </script>
 
-        <script src="{{ voyager_asset('js/ga-embed/chart.min.js') }}"></script>
-        <script src="{{ voyager_asset('js/ga-embed/moment.min.js') }}"></script>
+        <script src="{{ asset('assets/js/ga-embed/chart.min.js') }}"></script>
+        <script src="{{ asset('assets/js/ga-embed/moment.min.js') }}"></script>
         <!-- Include the ViewSelector2 component script. -->
-        <script src="{{ voyager_asset('js/ga-embed/view-selector2.js') }}"></script>
+        <script src="{{ asset('assets/js/ga-embed/view-selector2.js') }}"></script>
         <!-- Include the DateRangeSelector component script. -->
-        <script src="{{ voyager_asset('js/ga-embed/date-range-selector.js') }}"></script>
+        <script src="{{ asset('assets/js/ga-embed/date-range-selector.js') }}"></script>
         <!-- Include the ActiveUsers component script. -->
-        <script src="{{ voyager_asset('js/ga-embed/active-users.js') }}"></script>
+        <script src="{{ asset('assets/js/ga-embed/active-users.js') }}"></script>
 
         <script>
             // == NOTE ==

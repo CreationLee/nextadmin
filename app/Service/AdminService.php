@@ -5,6 +5,8 @@ namespace App\Service;
 use App\Models\User;
 use App\Models\Setting;
 use Illuminate\Support\Facades\Storage;
+use App\Models\Role;
+use App\Models\Permission;
 
 class AdminService
 {
@@ -12,6 +14,7 @@ class AdminService
     protected $models = [
         'User' => User::class,
         'Role' => Role::class,
+        'Permission' => Permission::class,
     ];
 
     public function model($name)

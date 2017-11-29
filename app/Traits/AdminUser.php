@@ -23,6 +23,6 @@ trait AdminUser
             $this->role->load('permissions');
         }
 
-        return in_array($name, $this->role->permissions->pluck('key')->toAray());
+        return in_array($name, $this->role->permissions->pluck('key')->toArray());
     }
 }
