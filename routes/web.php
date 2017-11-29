@@ -18,14 +18,12 @@ Route::get('/', function () {
 
 Route::group(['prefix' => 'admin', 'namespace'=>'Admin'], function () {
 
-    Route::get('login', ['uses' => 'AdminAuthController@login', 'as' => 'login']);
+    Route::get('login', ['uses' => 'AdminAuthController@login', 'as' => 'login' ]);
+    Route::post('login', ['uses' => 'AdminAuthController@postLogin', 'as' => 'postlogin']);
 
-    Route::group(['middleware'=>'admin'], function (){
+    Route::group(['middleware'=>'admin', 'as' => 'admin.'], function (){
         Route::get('/', ['uses' => 'IndexController@index',   'as' => 'dashboard']);
     });
-
-
-
 
 });
 

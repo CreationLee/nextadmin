@@ -1,15 +1,15 @@
 <?php
 namespace App\Traits;
 
-<<<<<<< HEAD
-=======
+use App\Facades\AdminFacades;
 
->>>>>>> 45ef0167b8612174e00cd4c57dae797c0e0729ac
 trait AdminUser
 {
+    public function role()
+    {
+        return $this->belongsTo(AdminFacades::modelClass('Role'));
+    }
 
-
-<<<<<<< HEAD
     //检测管理员权限
     public function hasPermission($name)
     {
@@ -23,21 +23,6 @@ trait AdminUser
             $this->role->load('permissions');
         }
 
-        return in_array($name, $this->role->permissions->pluck('key')->toAray());
-=======
-    public function hasPermission($name)
-    {
-      if(!$this->relationLoaded('role' ))
-      {
-          $this->load( 'role' );
-      }
-
-      if(!$this->role->relationLoaded('permission')) {
-            $this->role->load('permission');
-      }
-
-      return in_array($name, $this->role->pluck('key')->toArray());
-
->>>>>>> 45ef0167b8612174e00cd4c57dae797c0e0729ac
+        return in_array($name, $this->role->permissions->pluck('key')->toArray());
     }
 }
