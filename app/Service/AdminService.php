@@ -7,7 +7,10 @@ use App\Models\Setting;
 use Illuminate\Support\Facades\Storage;
 use App\Models\Role;
 use App\Models\Permission;
+<<<<<<< HEAD
 
+=======
+>>>>>>> b6039cf93e1f8404a815feb56fed0e359be33b4d
 
 class AdminService
 {

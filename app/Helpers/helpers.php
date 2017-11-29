@@ -7,3 +7,11 @@ if(!function_exists('admin_asset')) {
         return asset(config('admin.assets_path').'/'.$path, $secure);
     }
 }
+
+if(!function_exists('menu')) {
+
+    function menu($menuName, $type = null, array $options = [])
+    {
+
+    }
+}

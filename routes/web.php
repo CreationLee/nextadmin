@@ -22,7 +22,11 @@ Route::group(['prefix' => 'admin', 'namespace'=>'Admin'], function () {
     Route::post('login', ['uses' => 'AdminAuthController@postLogin', 'as' => 'postlogin']);
 
     Route::group(['middleware'=>'admin', 'as' => 'admin.'], function (){
-        Route::get('/', ['uses' => 'IndexController@index',   'as' => 'dashboard']);
+        Route::get('/', ['uses' => 'AdminController@index',   'as' => 'dashboard']);
+        Route::post('logout', ['uses' => 'AdminController@logout',  'as' => 'logout']);
+        Route::post('logout', ['uses' => 'AdminController@logout',  'as' => 'logout']);
+        Route::get('profile', ['uses' => 'AdminController@profile', 'as' => 'profile']);
+
     });
 
 });
