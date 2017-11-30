@@ -1,7 +1,7 @@
 <ul class="nav navbar-nav">
 
 @php
-    if (Voyager::translatable($items)) {
+    if (AdminFacades::translatable($items)) {
         $items = $items->load('translations');
     }
 
@@ -11,7 +11,7 @@
     
     @php
         $originalItem = $item;
-        if (Voyager::translatable($item)) {
+        if (AdminFacades::translatable($item)) {
             $item = $item->translate($options->locale);
         }
 
@@ -83,7 +83,7 @@
         @if(!$originalItem->children->isEmpty())
         <div id="{{ str_slug($originalItem->title, '-') }}-dropdown-element" class="panel-collapse collapse {{ (in_array('active', $listItemClass) ? 'in' : '') }}">
             <div class="panel-body">
-                @include('voyager::menu.admin_menu', ['items' => $originalItem->children, 'options' => $options, 'innerLoop' => true])
+                @include('admin.menu.admin_menu', ['items' => $originalItem->children, 'options' => $options, 'innerLoop' => true])
             </div>
         </div>
         @endif
