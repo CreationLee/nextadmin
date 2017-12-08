@@ -72,6 +72,6 @@ class AdminService
 
         $traits = class_uses_recursive(get_class($model));
 
-        return in_array(Translatable::class,$traits);
+        return dd(in_array(Translatable::class,$traits));
     }
 }
