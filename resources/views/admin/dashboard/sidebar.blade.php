@@ -15,7 +15,7 @@
                 </a>
             </div><!-- .navbar-header -->
 
-            <div class="panel widget center bgimage" style="background-image:url({{ AdminFacades::image( AdminFacades::setting('admin_bg_image'), config('voyager.assets_path') . '/images/bg.jpg' ) }});">
+            <div class="panel widget center bgimage" style="background-image:url({{ AdminFacades::image( AdminFacades::setting('admin_bg_image'),  '/assets/images/bg.jpg' ) }});">
                 <div class="dimmer"></div>
                 <div class="panel-content">
                     <img src="{{ $user_avatar }}" class="avatar" alt="{{ Auth::user()->name }} avatar">
@@ -26,7 +26,6 @@
                     <div style="clear:both"></div>
                 </div>
             </div>
-
         </div>
 
         {!! menu('admin', 'admin_menu') !!}

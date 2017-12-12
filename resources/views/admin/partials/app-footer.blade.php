@@ -5,9 +5,6 @@
         @else
             Made with <i class="voyager-heart"></i> by <a href="http://thecontrolgroup.com" target="_blank">The Control Group</a>
         @endif
-        @php $version = Voyager::getVersion(); @endphp
-        @if (!empty($version))
-            - {{ $version }}
-        @endif
+        此处没有版本信息
     </div>
 </footer>

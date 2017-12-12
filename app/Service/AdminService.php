@@ -11,6 +11,8 @@ use App\Models\Role;
 use App\Models\Permission;
 use App\Models\DataType;
 use App\Traits\Translatable;
+use App\Models\Page;
+use App\Models\Post;
 
 class AdminService
 {
@@ -21,6 +23,8 @@ class AdminService
         'Permission' => Permission::class,
         'MenuItem' => MenuItem::class,
         'DataType' => DataType::class,
+        'Page' => Page::class,
+        'Post' => Post::class,
     ];
 
     public function model($name)
@@ -72,6 +76,11 @@ class AdminService
 
         $traits = class_uses_recursive(get_class($model));
 
-        return in_array(Translatable::class,$traits);
+        return dd(in_array(Translatable::class,$traits));
+    }
+
+    public function alerts()
+    {
+
     }
 }

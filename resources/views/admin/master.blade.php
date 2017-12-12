@@ -33,13 +33,13 @@
     <!-- CSS Fonts -->
     <link rel="stylesheet" href="{{ asset('assets/fonts/voyager/styles.css') }}">
     <script type="text/javascript" src="{{ asset('assets/lib/js/jquery.min.js') }}"></script>
-    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.0/themes/smoothness/jquery-ui.css">
-    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js"></script>
+    {{--<link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.0/themes/smoothness/jquery-ui.css">--}}
+    {{--<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js"></script>--}}
 
     @yield('css')
 
     <!-- Voyager CSS -->
-    <link rel="stylesheet" href="{{ asset('assets/assets/css/voyager.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/css/voyager.css') }}">
 
     <!-- Few Dynamic Styles -->
     <style type="text/css">
@@ -64,7 +64,7 @@
 <div id="voyager-loader">
     <?php $admin_loader_img = AdminFacades::setting('admin_loader', ''); ?>
     @if($admin_loader_img == '')
-        <img src="{{ asset('images/logo-icon.png') }}" alt="Voyager Loader">
+        <img src="{{ asset('assets/images/logo-icon.png') }}" alt="Voyager Loader">
     @else
         <img src="{{ AdminFacades::image($admin_loader_img) }}" alt="Voyager Loader">
     @endif

@@ -121,7 +121,7 @@ return [
          */
         'locales' => [
             'en',
-            //'pt',
+            'pt',
         ],
     ],
 
@@ -191,9 +191,9 @@ return [
         ],
 
         'widgets' => [
-            'TCG\\Voyager\\Widgets\\UserDimmer',
-            'TCG\\Voyager\\Widgets\\PostDimmer',
-            'TCG\\Voyager\\Widgets\\PageDimmer',
+            'App\\Widgets\\PageDimmer',
+            'App\\Widgets\\PostDimmer',
+            'App\\Widgets\\UserDimmer',
         ],
 
     ],

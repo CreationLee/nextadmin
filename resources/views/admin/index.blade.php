@@ -7,6 +7,7 @@
 @section('content')
     <div class="page-content">
 
+        @include('admin.dimmers')
         <div style="padding:15px;">
             <?php $google_analytics_client_id = AdminFacades::setting("google_analytics_client_id"); ?>
             @if (isset($google_analytics_client_id) && !empty($google_analytics_client_id))
