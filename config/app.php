@@ -180,6 +180,8 @@ return [
         App\Providers\RouteServiceProvider::class,
         // 后台服务提供者
         App\Providers\AdminServiceProvider::class,
+        //widgets
+        Arrilot\Widgets\ServiceProvider::class,
 
     ],
 
@@ -231,7 +233,9 @@ return [
         'View' => Illuminate\Support\Facades\View::class,
         //后台管理
         'Admin' => App\Service\AdminService::class,
-
+        //widget
+        'Widget' => Arrilot\Widgets\Facade::class,
+        'AsyncWidget'  => Arrilot\Widgets\AsyncFacade::class,
     ],
 
 ];
