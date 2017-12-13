@@ -1,5 +1,7 @@
 <?php
 
+use App\Models\DataType;
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -26,6 +28,20 @@ Route::group(['prefix' => 'admin', 'namespace'=>'Admin'], function () {
         Route::post('logout', ['uses' => 'AdminController@logout',  'as' => 'logout']);
         Route::post('logout', ['uses' => 'AdminController@logout',  'as' => 'logout']);
         Route::get('profile', ['uses' => 'AdminController@profile', 'as' => 'profile']);
+
+    try {
+        foreach(DataType::all() as $datatype) {
+            $breadcontrolelr = $datatype->controller
+                             ? $datatype->controller
+                             : 'AdminBreadController';
+
+            Route::resource($datatype->slug,$breadcontrolelr);
+        }
+    } catch (\InvalidArgumentException $e) {
+        throw new \InvalidArgumentException("Custom routes hasn't been configured because: ".$e->getMessage(), 1);
+    } catch (\Exception $e) {
+        // do nothing, might just be because table not yet migrated.
+    }
 
     });
 
