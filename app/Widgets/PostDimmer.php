@@ -29,7 +29,7 @@ class PostDimmer extends AbstractWidget
             'text'   => "You have {$count} {$string} in your database. Click on button below to view all pages.",
             'button' => [
                 'text' => 'View all pages',
-
+                'link' => route('admin.posts.index'),
             ],
             'image' => asset('assets/images/widget-backgrounds/03.png'),
         ]));

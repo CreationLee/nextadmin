@@ -29,7 +29,7 @@ class UserDimmer extends AbstractWidget
             'text'   => "You have {$count} {$string} in your database. Click on button below to view all pages.",
             'button' => [
                 'text' => 'View all pages',
-
+                'link' => route('admin.users.index'),
             ],
             'image' => asset('assets/images/widget-backgrounds/02.png'),
         ]));
