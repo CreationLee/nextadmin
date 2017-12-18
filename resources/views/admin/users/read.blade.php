@@ -1,4 +1,4 @@
-@extends('voyager::master')
+@extends('admin.master')
 
 @section('page_header')
     <h1 class="page-title">
@@ -26,7 +26,7 @@
                         <div class="panel-body" style="padding-top:0;">
                             @if($row->type == "image")
                                 <img style="max-width:640px"
-                                     src="{!! Voyager::image($dataTypeContent->{$row->field}) !!}">
+                                     src="{!! AdminFacades::image($dataTypeContent->{$row->field}) !!}">
                             @elseif($row->type == 'date')
                             {{ \Carbon\Carbon::parse($dataTypeContent->{$row->field})->format('F jS, Y h:i A') }}
                             @else

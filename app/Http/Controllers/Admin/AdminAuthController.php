@@ -12,7 +12,7 @@ class AdminAuthController extends Controller
 
     public function login()
     {
-        return view('Admin.login');
+        return view('admin.login');
     }
 
     public function postlogin(Request $request)

@@ -1,4 +1,4 @@
-@extends('voyager::master')
+@extends('admin.master')
 
 @section('css')
     <meta name="csrf-token" content="{{ csrf_token() }}">
@@ -23,7 +23,7 @@
                     <!-- /.box-header -->
                     <!-- form start -->
                     <form class="form-edit-add" role="form"
-                          action="@if(isset($dataTypeContent->id)){{ route('voyager.'.$dataType->slug.'.update', $dataTypeContent->id) }}@else{{ route('voyager.'.$dataType->slug.'.store') }}@endif"
+                          action="@if(isset($dataTypeContent->id)){{ route('admin.'.$dataType->slug.'.update', $dataTypeContent->id) }}@else{{ route('admin.'.$dataType->slug.'.store') }}@endif"
                           method="POST" enctype="multipart/form-data">
                         <!-- PUT Method if we are editing -->
                         @if(isset($dataTypeContent->id))
@@ -62,7 +62,7 @@
                             <div class="form-group">
                                 <label for="password">Avatar</label>
                                 @if(isset($dataTypeContent->avatar))
-                                    <img src="{{ Voyager::image( $dataTypeContent->avatar ) }}"
+                                    <img src="{{ AdminFacades::image( $dataTypeContent->avatar ) }}"
                                          style="width:200px; height:auto; clear:both; display:block; padding:2px; border:1px solid #ddd; margin-bottom:10px;">
                                 @endif
                                 <input type="file" name="avatar">
@@ -71,7 +71,7 @@
                             <div class="form-group">
                                 <label for="role">User Role</label>
                                 <select name="role_id" id="role" class="form-control">
-                                    <?php $roles = TCG\Voyager\Models\Role::all(); ?>
+                                    <?php $roles = App\Models\Role::all(); ?>
                                     @foreach($roles as $role)
                                         <option value="{{$role->id}}" @if(isset($dataTypeContent) && $dataTypeContent->role_id == $role->id) selected @endif>{{$role->display_name}}</option>
                                     @endforeach
@@ -108,6 +108,6 @@
             $('.toggleswitch').bootstrapToggle();
         });
     </script>
-    <script src="{{ voyager_asset('lib/js/tinymce/tinymce.min.js') }}"></script>
-    <script src="{{ voyager_asset('js/voyager_tinymce.js') }}"></script>
+    <script src="{{ asset('assets/lib/js/tinymce/tinymce.min.js') }}"></script>
+    <script src="{{ asset('assets/js/voyager_tinymce.js') }}"></script>
 @stop

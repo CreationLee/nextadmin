@@ -14,6 +14,7 @@ use App\Traits\Translatable;
 use App\Models\Page;
 use App\Models\Post;
 use Symfony\Component\HttpKernel\Exception\UnauthorizedHttpException;
+use App\Models\DataRow;
 
 class AdminService
 {
@@ -26,6 +27,7 @@ class AdminService
         'DataType' => DataType::class,
         'Page' => Page::class,
         'Post' => Post::class,
+        'DataRow' => DataRow::class,
     ];
 
     protected $permissions = [];
@@ -101,7 +103,7 @@ class AdminService
 
         if($exists) {
             $user = $this->getUser();
-            if($user == null || $user->hasPermission($permission)) {
+            if($user == null || !$user->hasPermission($permission)) {
                 return false;
             }
 

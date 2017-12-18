@@ -43,7 +43,7 @@
                         @endif
                         <div class="copy animated fadeIn">
                             <h1>{{ AdminFacades::setting('admin_title', 'Voyager') }}</h1>
-                            <p>{{ AdminFacades::setting('admin_description', 'Welcome to Voyager. The Missing Admin for Laravel') }}</p>
+                            <p>{{ AdminFacades::setting('admin_description', 'admin') }}</p>
                         </div>
                     </div> <!-- .logo-title-container -->
                 </div>
