@@ -108,6 +108,17 @@ class AdminBreadController extends Controller
     //the post edit
     public function update(Request $request,$id)
     {
+        $slug = $this->getSlug($request);
+
+        $dataType = AdminFacades::model('DataType')->where('slug','=',$slug)->first();
+
+        AdminFacades::canOrFail('edit_'.$dataType->name);
+
+        if(!$request->ajax()) {
+            $data = call_user_func([$dataType->model_name,'findOrFail'],$id);
+
+            $this->insertUpdateData($request, $slug, $dataType->editRows, $data);
+        }
 
     }
     

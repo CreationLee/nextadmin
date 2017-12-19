@@ -22,4 +22,47 @@ class Controller extends BaseController
 
         return $slug;
     }
+
+    public function insertUpdateData($request, $slug, $rows, $data)
+    {
+        foreach ($rows as $row) {
+            $options = json_decode($row->details);
+
+            $content = $this->getContentBasedOnType($request, $slug ,$row);
+        }
+
+    }
+
+    public function getContentBasedOnType(Request $request, $slug, $row)
+    {
+        $content = null;
+        switch ($row->type) {
+            /********** PASSWORD TYPE **********/
+            case 'password':
+                $pass_field = $request->input($row->field);
+
+                if (isset($pass_field) && !empty($pass_field)) {
+                    return bcrypt($request->input($row->field));
+                }
+
+                break;
+
+            /********** CHECKBOX TYPE **********/
+            case 'checkbox':
+                $checkBoxRow = $request->input($row->field);
+
+                if (isset($checkBoxRow)) {
+                    return 1;
+                }
+
+                $content = 0;
+
+                break;
+
+            /******** FILE TYPE ***********/
+            case 'file' :
+
+        }
+
+    }
 }
